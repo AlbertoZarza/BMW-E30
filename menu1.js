@@ -11,7 +11,7 @@ Menu1=new Array("CIRCUITOS","https://albertozarza.github.io/wrc/","",3,20,200);
   Menu1_3=new Array("NURBURGRIN","https://albertozarza.github.io/nurburgrin/","",0,20,200);
 
 Menu2=new Array("COMPETICIONES","https://albertozarza.github.io/competiciones/","",5,0,200);
-  Menu2_1=new Array("DRIFT","https://albertozarza.github.io/grift/","",0,20,200);
+  Menu2_1=new Array("DRIFT","https://albertozarza.github.io/drift/","",0,20,200);
   Menu2_2=new Array("F1","https://albertozarza.github.io/f1/","",0,20,200);
   Menu2_3=new Array("F-E","https://albertozarza.github.io/fe/","",0,20,200);
   Menu2_4=new Array("NASCAR","https://albertozarza.github.io/nascar/","",0,20,200);
@@ -24,7 +24,7 @@ Menu4=new Array("PRUEBAS","https://albertozarza.github.io/pruebas/","",0,20,200)
 Menu5=new Array("WORKSHOP MANUALS","https://albertozarza.github.io/workshop/","",0,20,200);
 
 Menu6=new Array("REBUILDS","https://albertozarza.github.io/rebuild/","",2,20,200);
-  Menu6_1=new Array("BMW E30 ","https://albertozarza.github.io/bmw-30/","",0,20,200);
+  Menu6_1=new Array("BMW E30 ","https://albertozarza.github.io/bmw/","",0,20,200);
   Menu6_2=new Array("FORD MUSTANG","https://albertozarza.github.io/ford/","",0,20,200);
 
 Menu7=new Array("TABLA DE TIEMPOS ","https://albertozarza.github.io/tabla/","",0,20,200);
